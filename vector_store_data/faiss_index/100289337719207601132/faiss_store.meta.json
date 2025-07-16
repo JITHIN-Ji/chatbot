@@ -1,0 +1,261 @@
+[
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nNATIONAL \nAPPRENTICESHIP \nTRAINING SCHEME \n(NATS) 2.0 PORTAL \nPortal Functionalities Walkthrough - \nEstablishments Manual \n",
+    "chunk_index": 0,
+    "page": 1,
+    "label": "1"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "Contents \n \nOverview ....................................................................................................................................................... 2 \nModules & Functionality .............................................................................................................................. 2 \n1.Establishment Registration .................................................................................................................... 5 \n2.1 \nEstablishment Profile .................................................................................................................... 8 \n2.2 \nProfile submitted for BOAT approval ......................................................................................... 14 \n3. Onboarding Students ............................................................................................................................ 15 \n3.1. Posting Apprenticeship Advertisement .............................................",
+    "chunk_index": 1,
+    "page": 2,
+    "label": "2"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "........ 15 \n3.1. Posting Apprenticeship Advertisement ............................................................................................. 15 \n3.1.1 Application Management ............................................................................................................... 18 \n3.2Bulk Contract Creation ...................................................................................................................... 19 \n4. Contract Creation/Management ........................................................................................................... 20 \n5. Quarterly filing of Record of Progress (ROP) ..................................................................................... 23 \n6. Claiming stipend reimbursement ......................................................................................................... 25 \nContact Us ....................................................................................................................",
+    "chunk_index": 2,
+    "page": 2,
+    "label": "2"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "................................................................................................................................... 28 \n",
+    "chunk_index": 3,
+    "page": 2,
+    "label": "2"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "Overview \n \n \nNational Apprenticeship Training Scheme is one of the flagship programmes of Government of India for \nSkilling Indian Youth in Trade disciplines. The National Apprenticeship Training Scheme under the \nprovisions of the Apprentices Act, 1961 amended in 1973; offers Graduate, Diploma students and \nVocational certificate holders; a practical, hands-on On-the-Job-Training (OJT) based skilling opportunities \nwith duration ranging from 6 months to 1 year. \n \nModules & Functionality \n \n \nEstablishments play the critical role in NATS 2.0 Portal of posting apprenticeship advertisements aligned \nto their manpower requirements. The following modules pertain to the apprenticeship related activities an \nestablishment is responsible for, \n \n1. Registration \n2. Profile filling \n3. Bulk Contract creation/ Posting apprenticeship advertisement. \n4. Application Management \u2013 select, shortlist, reject of applications \n5. Contract Management - Creation, Amendment, Novation, Termination \n6. Qua",
+    "chunk_index": 4,
+    "page": 3,
+    "label": "3"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": " reject of applications \n5. Contract Management - Creation, Amendment, Novation, Termination \n6. Quarterly filing of Record of Progress (ROP) for apprentices. \n7. Claiming Stipend Reimbursement \n \nBelow is each of these modules elaborated along with screenshots. \n",
+    "chunk_index": 5,
+    "page": 3,
+    "label": "3"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "Resetting password (upgraded portal) \n \nStep 1: Click on the below link, \nhttps://moenats.aicte-india.org/forgot_password_establishment.php \n \nStep 2: Enter your email, a password reset email will be received to the email. \n \n \n \n \nStep 3: Open the email and click on the link, and it will be redirected to the password reset \npage. \n \n",
+    "chunk_index": 6,
+    "page": 4,
+    "label": "4"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "Step 4: From this page, you will be prompted to enter the password two times for confirmation. \n \nStep 5: A success pop-up will appear on screen & the password is shared over your email in \nreturn. \n \nStep 6: To Login Visit https://moenats.aicte-india.org/establishment_login.php , enter your \nlogin credentials to login as regional director. \n",
+    "chunk_index": 7,
+    "page": 5,
+    "label": "5"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": " \n1.Establishment Registration \n \n \n \nEstablishments are expected to register on the NATS 2.0 Portal with their preliminary details before they \nare allowed to post their apprentice and skill requirements. \nEstablishment registration url: https://moenats.aicte-india.org/establishment_register.php. \nThere are two main options for an establishment to register, \ni. \nReimbursement - an establishment can choose to get the reimbursement of the stipend paid to the \napprentices during their contract period. They can either choose for full-reimbursement (or) partial \nreimbursement. \nii. \nNon-Reimbursement (LITE VERSION) - By selecting this option, an establishment can confirm they \nwouldn\u2019t ask for any kind of reimbursement for the stipend paid to apprentices. \nFollowing the above details, establishment is asked to fill the below details, \n\u2022 \nTotal manpower details \u2192Number of manpower in accordance to (regular/contractual/casual/outsource) \n\u2022 \nSector, sub-sector to which the establishment belon",
+    "chunk_index": 8,
+    "page": 6,
+    "label": "6"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "ce to (regular/contractual/casual/outsource) \n\u2022 \nSector, sub-sector to which the establishment belongs to either central/state/private. \n\u2022 \nPAN/TAN, Udyog Aadhaar number details. \n\u2022 \nNature of establishment, year of establishment. \n\u2022 \nHead details (Details of the head of the establishment) \n\u2022 \nAddress of registered office \n\u2022 \nLogin details. \n \n \nBelow are the establishment registration form screenshots. \n",
+    "chunk_index": 9,
+    "page": 6,
+    "label": "6"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "Registration form for Establishments \n \n",
+    "chunk_index": 10,
+    "page": 7,
+    "label": "7"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": " \nRegistration form for Establishments (cont.) \n \n",
+    "chunk_index": 11,
+    "page": 8,
+    "label": "8"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "2.1 Establishment Profile \n \n \n \nFollowing are the basic details to be filled by establishment at time of registration: \n \nThe first step basic details \u2013 show the details filled in the before filled registration form. The establishment \nshall continue to fill their profile. \n \n \n",
+    "chunk_index": 12,
+    "page": 9,
+    "label": "9"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "The Address of the Head Office along with contact person, login person details are displayed. \n \n \n",
+    "chunk_index": 13,
+    "page": 10,
+    "label": "10"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "STEP 2: Manpower and infrastructure details: \nEstablishments need to provide manpower and infrastructure details. The forms would appear in the below \nformat: \nManpower and infrastructure details (Details of training officer, Establishment infrastructure details, \nManpower specialization/field of study and count). \n \n",
+    "chunk_index": 14,
+    "page": 11,
+    "label": "11"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "STEP 3: BANK ACCOUNT DETAILS \u2013 (Only for Establishments taking reimbursement) \n \nIn this Bank account details of the establishment is asked, Account through which stipend is paid to \napprentices, account to which the stipend reimbursement is to be credited. Both the account details can be \nsame. \n \nSTEP 4: Uploading of files \n \nFurther, the establishment needs to upload logo of company, certificate of incorporation, Latest IT Return \ncopy, Structured training module, PAN/TAN. In the next step of uploading files, the establishment also \nneeds to upload \n-Whether establishment wants to engage apprenticeship in NAPS \n-Number of apprenticeships required course-wise along with stipend provided. \n",
+    "chunk_index": 15,
+    "page": 12,
+    "label": "12"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": " \n \n \n \nSTEP 5: Adding the other sub-locations of the establishment. \n \nThe establishments are asked to fill the sub-location details, if any. The manpower details of the sub- \nlocation are also asked as they are used to identify the number of slots an establishment can request from \nBOAT officials. \n \n1. Adding locations \nIn further steps, the establishment can add other office locations, if any and number of \napprenticeships required course-wise along with stipend provided. \n \n",
+    "chunk_index": 16,
+    "page": 13,
+    "label": "13"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "STEP 6: Requirement details \n \nEducational qualification-wise number of apprentices required shall be filled. \nIn case establishment wants to reimburse, how many apprentices to reimbursement and how many \nwithout reimbursement can be specified \n \n \n \n \n \n \nSTEP 7: Profile view and final submit \nWith this step the profile filling is finished, now the establishment can view the details filled and submit \nfor the BOAT approval. \nScroll down to the end of the page, cross-check the details and click on \u201cSUBMIT\u201d button. \n \n",
+    "chunk_index": 17,
+    "page": 14,
+    "label": "14"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "2.2 Profile submitted for BOAT approval \n \nThe Establishment goes through a two-step approval from BOAT. \nAnd the status is shown like below. BOAT officers can add any remarks on the portal, which will be \nvisible at the remark\u2019s column. \n \n \nEstablishment BOAT approval status pending \n \nPOST BOAT APPROVAL \u2013 ESTABLISHMENT CAN ACCESS THE DASHBOARD \n \n",
+    "chunk_index": 18,
+    "page": 15,
+    "label": "15"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "3. Onboarding Students \n \n \nThere are two ways for an establishment to onboard students as an apprentice. \n1. Posting Apprenticeship Advertisement: \nThis method involves an establishment posting an advertisement and students applying for it. \n2. Bulk Contract Creation: \nThis method involves entering one or more than one student enrollment ID, and by filling the \ntraining details, the contract creation step starts. \n \n \n3.1. Posting Apprenticeship Advertisement \n \n \n\u25aa \nAn establishment can post an apprenticeship advertisement educational qualification-wise, location- \nwise, skill-wise, gender-wise, based on year of passing & after approval of BOAT, \nADVERTISEMENT shows up on student dashboard, based on matching criteria. \n\u25aa \nApplied students can be shortlisted, put in waiting list, called for interview, selected or be rejected. \nTo Post an advertisement \u2013 \nIn navigation bar \u2192Click on Advertisement Management \u2192 Select \u201cPost \nAdvertisement\u201d \n \n \nOn-clicking, the advertisement posting page",
+    "chunk_index": 19,
+    "page": 16,
+    "label": "16"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "rtisement Management \u2192 Select \u201cPost \nAdvertisement\u201d \n \n \nOn-clicking, the advertisement posting page opens, where the details like Apprenticeship location, \nrequired qualification, who can apply, apprenticeship start date and last applying date are to be filled. \n",
+    "chunk_index": 20,
+    "page": 16,
+    "label": "16"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": " \nEstablishment request post apprenticeship advertisement form \n \n \n \n \n \n \nOn submitting the advertisement, the request is sent to BOAT for approval, and the status of the \nadvertisement can be view from advertisement list of advertisement management from navigation bar. \n",
+    "chunk_index": 21,
+    "page": 17,
+    "label": "17"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": " \nEstablishment requests for apprenticeship advertisement which reflects at respective officer who assigned \nthe duty of approving apprenticeship advertisement. \nBOAT can accepts/ reject/ seek clarification post apprenticeship advertisement \nBoat verifies data and seeks clarification if any to the establishment. If accepted, the advertisement is posted \nto students\u2019 dashboard. \nON BOAT APPROVAL FOR ADVERTISEMENT LISTING \nOnce an advertisement is accepted by BOAT department, the status will be reflected on establishment with \nstatus \u201cApproved by BOAT\u201d in green color as one can see on the above screenshot. \nApprenticeship advertisement on student dashboard \nAdvertisements show on dashboard in listing way, they can apply to their suitable apprenticeship by \nviewing the details like, \n1. Apprenticeship title, description, duration, location, skills required, qualification required to apply. \n2. After applying, they can check for application status from the application management \nStudent d",
+    "chunk_index": 22,
+    "page": 18,
+    "label": "18"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "\n2. After applying, they can check for application status from the application management \nStudent dashboard with apprenticeship advertisement \n \n",
+    "chunk_index": 23,
+    "page": 18,
+    "label": "18"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "3.1.1 Application Management \n \nEstablishment can see all the applicant details from the interview management section. From where they \ncan \n1. Shortlist an application \n2. Select application, \n3. Reject \n4. Put in waiting list \n5. Call for interview. \nTo view the applicant list for an advertisement \u2013 \nIn navigation bar \u2192 click on \u201cApprenticeship Management\u201d \u2192 Select \u201cApplicant \nManagement\u201d \n \n \nOn selecting the applicant management, the interview management page opens. \nFrom here an advertisement can be selected from the list of drop-down to see the student list, refer to below \nscreenshot. A student\u2019s profile can be viewed, can be shortlisted/waitlisted/rejected. Students who are \nselected are eligible for contract creation. \n \n",
+    "chunk_index": 24,
+    "page": 19,
+    "label": "19"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "Once a student is selected, the page redirects to \u201cContract Creation\u201d. Select the advertisement from the \ndrop-down over which the student is selected. \nThe selected students list appears, fill the training details, period of training, joining details, stipend details \nand etc. \n \n \n \n3.2Bulk Contract Creation \n \n \n \nThis the second method for an establishment can onboard students and create contract. \nEstablishments which prefer to use their own method of selecting students for apprenticeship, can use this \nfunctionality on bulk contract creation. \nTo perform a bulk contract creation: \nIn navigation bar click on \u201cApprenticeship Management\u201d \u2192 Select \u201cContract Management\u201d \n\u2192 opt for \u201cBulk Contract creation\u201d \n",
+    "chunk_index": 25,
+    "page": 20,
+    "label": "20"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": " \n \nOn clicking the \u201cBulk Create Contract\u201d, the below page opens from where student enrollment ID can be \ngiven. \nOnce all the student enrollment ID are added, an option to fill the training details are shown. \nBy filling the training details and clicking on \u201cCreate Contract Request\u201d. \nThe request goes to those particular student dashboards for acceptance, and later to BOAT officer for their \napproval. \nOnce the BOAT approval is received. The contract is successfully created. \nThe contract creation module is explained in detail in section 4. Contract creation \n \n \n4. Contract Creation/Management \n \n \n \nAfter the establishment contract creation, the request goes to student dashboard for contract approval and \nupon approval from student the same will reflect at BOAT for final acceptance of contract creation. \nThe below are the detailed explanation of the contract creation process. \n1. Upon \u201cInitiation of contract\u201d the status of application changes to status to approve contract. \n2. After",
+    "chunk_index": 26,
+    "page": 21,
+    "label": "21"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": " \u201cInitiation of contract\u201d the status of application changes to status to approve contract. \n2. After selecting students, a contract has to be created individually with each of them, with approval \nfrom BOAT and acceptance from student, a contract is created. \n",
+    "chunk_index": 27,
+    "page": 21,
+    "label": "21"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "3. Multiple students contract creation can be done by verification of details and by giving the joining \ndate, life skills, professional skills date, the contract request is created in BULK Manner. \n4. Multi-select option and Advertisement-wise segregation is enabled. \n5. Once a student\u2019s contract is created, they are part of establishment as an apprentice and so can\u2019t \napply elsewhere until, there contract is terminated in any such case. \n6. Based on their training period, each student\u2019s performance is recorded quarter-wise and is used at \nthe time of Certificate generation and stipend claim by establishment. \nWhile contract creation, an establishment has two options to select a student, \n1. SEC 22(A), the student is retained as an employee into same establishment after apprenticeship \nprogram is finished. \n2. SEC 22(B), student may or may not be retained as an employee in the same establishment. \n \n",
+    "chunk_index": 28,
+    "page": 22,
+    "label": "22"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "blishment. \n \n",
+    "chunk_index": 29,
+    "page": 22,
+    "label": "22"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "Contract management by student \nAfter the establishment contract initiation, student has to accept the contract request from establishment \nfirstly, in order to send request to BOAT for final confirmation. \nStudent dashboard view \n \n \n \nOn acceptance, Contract request sent to BOAT for approval \n \nOnce a contract is created, for any changes in student profile, they need to request BOAT for it. \n",
+    "chunk_index": 30,
+    "page": 23,
+    "label": "23"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "5. Quarterly filing of Record of Progress (ROP) \n \nEstablishment fills the Record of progress of every student each and every month. \nThere are two ways to fill ROP, \n1. ROP through portal: They can fill through the Portal \n2. Excel upload: Excel upload, mostly preferred for bulk data submission. \nTo Fill ROP: \nIn navigation bar \u201cclick on Apprenticeship Management\u201d \u2192 \u201cROP\u201d \u2192 \u201cCreate ROP\u201d. \nMethod 1: ROP through portal: To fill ROP of a particular student, establishment has to select the month \nfor which he wants to record the progress. \nEstablishment filing ROP through portal - \n \nMethod 2: Excel upload: For Bulk ROP, download the excel template from the button \u201cDownload Excel \nTemplate\u201d. Fill the ROP details in excel and click on \u201cBulk Excel Upload\u201d to submit the ROP. \nExcel Upload: Downloaded excel will be pre-filled with students from the selected month and financial \nyear: \n \n",
+    "chunk_index": 31,
+    "page": 24,
+    "label": "24"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "The excel can be uploaded by clicking on \u201cBulk Excel Upload\u201d \n \nOn submission of ROP for a quarter, an ROP will be sent for BOAT approval. \nBOAT module approves establishment ROP \n \n",
+    "chunk_index": 32,
+    "page": 25,
+    "label": "25"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "6. Claiming stipend reimbursement \n \n \n \nTo Raise a stipend claim request: \nIn navigation bar Click on \u201cApprenticeship Management\u201d \u2192 Select \u201cClaim\u201d \u2192 \u201cCreate Claim\u201d \n \n \nIn the claim request page, on selecting the financial year and number of students for whom stipend claim is \nbeing raised. The list of students whose ROP for at least a quarter is filled shows up. \nEstablishment claiming stipend reimbursement \n \nStep 1: In the selection tab, check the boxes of students whose claim is to be requested and click next. \nThe below page appears, where the student\u2019s stipend details are visible. \n \nStep 2: Click on \u201cSave\u201d to finish the final submit. \n \nStep 3: Upon Final submitting the stipend claim request, a stipend claim form is generated like below. \n",
+    "chunk_index": 33,
+    "page": 26,
+    "label": "26"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": " \n \n",
+    "chunk_index": 34,
+    "page": 27,
+    "label": "27"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "After the  establishment proposal in the portal, the stipend claim forms physical copies and \nnecessary documents are also shared with BOAT Officer. \nThen the scrutiny process starts: \n1. Stipend claim is initiated by user accounts, \n2. Sends to junior accounts officer for validation, \n3. Director can seek clarification, reject or approve claim and send forward for, \n4. Jr. User accounts officer, generates bill \n5. And the voucher is generated \n6. Finally sent to Bank for money transfer, \n7. The transaction details are entered for reference purpose of the establishments. \nStipend claims view: \nAll the stipend claims requested and their status can be view from \u201cview claim\u201d section of navigation bar: \n \nClaim details along with their status can be seen in this page. \n \n",
+    "chunk_index": 35,
+    "page": 28,
+    "label": "28"
+  },
+  {
+    "doc_id": "establishment_user_manual.pdf",
+    "chunk_text": "Contact Us \n \n \nEmail: natssupport@aicte-india.org \n",
+    "chunk_index": 36,
+    "page": 29,
+    "label": "29"
+  }
+]
